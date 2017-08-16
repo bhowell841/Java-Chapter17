@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Fri Mar 04 21:23:24 EST 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.1.2 - (1495037): instance a816c00e-0153-4496-2768-000003f4cd50 
+on database directory /Volumes/NO NAME/Eclipse/Chapter17/Chapter17/DTCC with class loader sun.misc.Launcher$AppClassLoader@1540e19d 
+Loaded from file:/Library/Java/JavaVirtualMachines/jdk1.8.0.jdk/Contents/Home/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_05-b13
+user.dir=/Volumes/NO NAME/Eclipse/Chapter17/Chapter17
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.9.5
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

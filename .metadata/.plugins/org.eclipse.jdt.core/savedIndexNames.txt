@@ -1,0 +1,2 @@
+INDEX VERSION 1.127+/Volumes/HOWELL/Eclipse/Chapter17/Chapter17/.metadata/.plugins/org.eclipse.jdt.core
+1267205773.index
